@@ -1,1 +1,2 @@
 Hello and welcoome to my git file setup
+This is for practicing Git staging and saving.
